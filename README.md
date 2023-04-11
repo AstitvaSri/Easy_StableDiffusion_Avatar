@@ -1,2 +1,5 @@
-# Easy_StableDiffusion_Avatar
+# Easy Stable Diffusion Avatar
+<a target="_blank" href="https://colab.research.google.com/github/AstitvaSri/Easy_StableDiffusion_Avatar/blob/main/StableDiffusion_Avatar.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 An easy to follow demo for generating personalized generative avatars via stable diffusion
