@@ -3,5 +3,5 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <br/>
-An easy to follow demo for generating personalized generative avatars via stable diffusion
+An easy to follow demo for generating personalized generative avatars via stable diffusion.
 
